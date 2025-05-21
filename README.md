@@ -1,16 +1,17 @@
-# album_app
+# Flutter Album Explorer 🖼️
 
-A new Flutter project.
+A mobile app that displays photo albums from JSONPlaceholder API with smooth navigation and state management using BLoC pattern.
 
-## Getting Started
+## Features ✨
+- **Album List**: Browse all albums with cover thumbnails
+- **Photo Grid**: View all photos in an album in a responsive grid
+- **BLoC State Management**: Clean architecture with events and states
+- **Error Handling**: Shows user-friendly error messages
 
-This project is a starting point for a Flutter application.
+## Tech Stack 💻
+- **Flutter 3.13+**
+- **BLoC**: State management
+- **GoRouter**: Navigation
+- **http**: API calls
+- **JSONPlaceholder**: API
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
